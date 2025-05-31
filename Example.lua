@@ -1,5 +1,5 @@
 
-local Httpsui = "https://raw.githubusercontent.com/NxierAuquz/Obsidian/refs/heads/main/"
+local Httpsui = "https://raw.githubusercontent.com/NxierAcc/KrypEdit/refs/heads/main/"
 local Library = loadstring(game:HttpGet(Httpsui .. "Library.lua"))()
 local ThemeManager = loadstring(game:HttpGet(Httpsui .. "ThemeManager.lua"))()
 local SaveManager = loadstring(game:HttpGet(Httpsui .. "SaveManager.lua"))()
